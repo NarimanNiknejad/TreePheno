@@ -33,7 +33,7 @@ The images were annotated to identify and segment the trunk and branches of the 
 
 
 ## Citation
-Researchers can use this dataset to develop and evaluate their tree phenotying analysis systems. When using this dataset, please cite the following paper:
+Researchers can use this dataset to develop and evaluate their tree phenotyping analysis. When using this dataset, please cite the following paper:
 
 @article{niknejad2023phenotyping,
   title={Phenotyping of architecture traits of loblolly pine trees using stereo machine vision and deep learning: Stem diameter, branch angle, and branch diameter},
