@@ -8,6 +8,11 @@ This repository contains the dataset and annotation files used in the study: *Ph
 
 The images were annotated to identify and segment the trunk and branches of the trees. The images are annotated using [COCO annotator](https://github.com/jsbroks/coco-annotator). 
 
+<div style="text-align:center;">
+    <img src="cocoannotator.jpg" alt="COCO Annotator" width="400"/>
+</div>
+
+
 ### Data Files
 
 - **images/**: Contains stereo image pairs of the pine trees.
