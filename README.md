@@ -54,5 +54,13 @@ Researchers can use this dataset to develop and evaluate their tree phenotyping 
 }
 
 
+## Results
+
+<div style="text-align:center;">
+    <img src="detectiontree.png" alt="DetectionRes" width="800"/>
+</div>
+
+
+
 
 
