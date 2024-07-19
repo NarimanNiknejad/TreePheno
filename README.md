@@ -35,6 +35,9 @@ The images were annotated to identify and segment the trunk and branches of the 
 - **Camera**: RGB stereo camera (ZED2, STEREOLABS, France)
 - **Resolution**: 2208 × 1242 pixels
 
+<div style="text-align:center;">
+    <img src="datacollection.png" alt="DataCol" width="800"/>
+</div>
 
 
 ## Citation
